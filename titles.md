@@ -1,4 +1,4 @@
-# WebFlyx Movie Titles
+# Titles
 
 - Star Wars
 - The Matrix
